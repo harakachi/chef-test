@@ -1,0 +1,6 @@
+{
+  "run_list":[
+    "recipe[working-test-cookbook]",
+    "recipe[git]"
+  ]
+}
